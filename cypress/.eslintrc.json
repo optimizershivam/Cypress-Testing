@@ -1,0 +1,4 @@
+{
+    "extends":["plugin:cypress/recommended"]
+}
+// it is for error showing(cy is not defined)
